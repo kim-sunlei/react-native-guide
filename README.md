@@ -1,9 +1,9 @@
 # react-native-guide
 react-native 不负责任指北
 
-## expo 不适合国内，不要用，重要的事情要说三遍！
-## expo 不适合国内，不要用，重要的事情要说三遍！
-## expo 不适合国内，不要用，重要的事情要说三遍！
+### expo 不适合国内，不要用，重要的事情要说三遍！
+### expo 不适合国内，不要用，重要的事情要说三遍！
+### expo 不适合国内，不要用，重要的事情要说三遍！
 
 ## 常用库
 * 路由: [react-navigation](https://reactnavigation.org/) or [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
